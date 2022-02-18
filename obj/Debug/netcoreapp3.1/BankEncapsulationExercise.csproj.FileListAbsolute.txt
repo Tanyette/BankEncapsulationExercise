@@ -1,0 +1,14 @@
+C:\Users\bwaff\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\netcoreapp3.1\BankEncapsulationExercise.exe
+C:\Users\bwaff\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\netcoreapp3.1\BankEncapsulationExercise.deps.json
+C:\Users\bwaff\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\netcoreapp3.1\BankEncapsulationExercise.runtimeconfig.json
+C:\Users\bwaff\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\netcoreapp3.1\BankEncapsulationExercise.runtimeconfig.dev.json
+C:\Users\bwaff\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\netcoreapp3.1\BankEncapsulationExercise.dll
+C:\Users\bwaff\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\netcoreapp3.1\BankEncapsulationExercise.pdb
+C:\Users\bwaff\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.csproj.AssemblyReference.cache
+C:\Users\bwaff\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bwaff\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.AssemblyInfoInputs.cache
+C:\Users\bwaff\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.AssemblyInfo.cs
+C:\Users\bwaff\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.csproj.CoreCompileInputs.cache
+C:\Users\bwaff\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.dll
+C:\Users\bwaff\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.pdb
+C:\Users\bwaff\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.genruntimeconfig.cache
